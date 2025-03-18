@@ -1,8 +1,11 @@
-# React + Vite
+# TaskSphere – Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TaskSphere is a **React.js-based Employee Management System** designed to streamline task assignments between administrators and employees. It offers a **secure login system**, separate dashboards for employees and admins, and task management features.
 
-Currently, two official plugins are available:
+## 🛠️ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Authentication System** – Login system for employees and admins.
+- **Admin Dashboard** – Allows admins to assign and manage tasks.
+- **Employee Dashboard** – Enables employees to view and complete assigned tasks.
+- **Task Management** – Create, accept, complete, and track task statuses.
+- **User-Friendly Interface** – Clean and responsive UI for smooth navigation.
